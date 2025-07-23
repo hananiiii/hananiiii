@@ -3,13 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hananiiii&label=Profile%20views&color=0e75b6&style=flat" alt="hananiiii" /> </p>
 
-- 🔭 I’m currently working on [Full stack chat app with MERN stack](https://github.com/hananiiii/FullStack-relatime-chat-application)
 
-- 🌱 I’m currently learning **More about Mern, springboot && Ai**
+- 🌱 I’m currently learning **More about Microservice Architectures && Ai technologies**
 
 - 📫 How to reach me **https://www.linkedin.com/in/lachoub-hanane-8a524a28a/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ReehM5_J9sfPRam4J3ZQmeKDaBdE9EB9/view?usp=sharing](https://drive.google.com/file/d/1ReehM5_J9sfPRam4J3ZQmeKDaBdE9EB9/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1LkmLeGbmICBfgHd_o7Rq2iUWOXtuM3Ia/view?usp=drive_link](https://drive.google.com/file/d/1LkmLeGbmICBfgHd_o7Rq2iUWOXtuM3Ia/view?usp=drive_link)
 
 - ⚡ Fun fact **I think i need to be alone when an error occurs**
 
